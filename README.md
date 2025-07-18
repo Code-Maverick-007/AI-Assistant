@@ -44,8 +44,4 @@ Welcome to the AI Assistant project! This intelligent assistant can perform a va
     openai.api_key = "your-api-key"  # Replace with your OpenAI API key
     ```
 
-## Usage
 
-Run the assistant:
-```sh
-python [main.py](http://_vscodecontentref_/0)
