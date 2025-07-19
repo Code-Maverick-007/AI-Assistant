@@ -235,7 +235,7 @@ def assistant_loop():
         if command:
             execute_command(command)
         if "exit" in command or "quit" in command:
-           speak("It was a pleasure assisting you. Take care and have a great day!")
+           speak("It was a pleasure assisting you. Take care and have a great day!!!")
            break
 
 if __name__ == "__main__":
